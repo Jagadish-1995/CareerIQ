@@ -1,0 +1,12 @@
+We are looking for a Junior Data Scientist.
+
+Requirements:
+
+Strong Python programming skills.
+Experience with SQL and data analysis.
+Knowledge of machine learning algorithms.
+Experience with scikit-learn.
+Knowledge of statistics.
+Experience with Power BI or Tableau.
+Understanding of deep learning and NLP is preferred.
+Knowledge of Docker and cloud platforms is a plus.
